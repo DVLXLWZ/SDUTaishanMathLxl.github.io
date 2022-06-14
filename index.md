@@ -9,7 +9,7 @@
       <p><b>   + 官方网站： [山东大学](https://www.sdu.edu.cn/) 和 [山东大学泰山学堂](https://www.tsxt.sdu.edu.cn/)  </b></p>
     </td>
     <td width="70%">
-      <img src="/泰山学堂Logo.png" width="100%"> 
+      <img src="/TaishanLogo.jpg" width="100%"> 
     </td>
   </tr>
 </table>
