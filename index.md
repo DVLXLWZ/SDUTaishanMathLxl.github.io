@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# 山东大学泰山学堂数学取向——笔记/考试题
+## 简介
+### 基础信息
 
-You can use the [editor on GitHub](https://github.com/DVLXLWZ/SDUTaishanMathLxl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="30%">
+      <h3> + 机构/学院：山东大学泰山学堂——数学取向</h3>
+      <p><b> + 地点: 中国——山东——济南</b></p>
+      <p><b>   + 官方网站： [山东大学](https://www.sdu.edu.cn/) 和 [山东大学泰山学堂](https://www.tsxt.sdu.edu.cn/)  </b></p>
+    </td>
+    <td width="70%">
+      <img src="/屏幕截图 2022-06-14 184321.png" width="100%"> 
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 课程或者复习笔记
+> + **偏微分方程基础:** 即将到来.
+ 
+> + **数论基础:** 2022课程主页: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
 
-### Markdown
+> + **泛函分析:** [2021泛函分析复习笔记（王鹏辉）](/泛函分析复习笔记2022.pdf).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> + **拓扑学基础:**  暂无
 
-```markdown
-Syntax highlighted code block
+> + **复分析:**  [2021复分析作业（赵立璐）](/2021 复分析作业.pdf)；
 
-# Header 1
-## Header 2
-### Header 3
+> + **概率论基础:** [2021概率论（聂天洋）笔记](/概率论2021复习笔记.pdf).
 
-- Bulleted
-- List
+> + **线性代数 II:** 默认教材是北大四版的高等代数.
+>[2021春（刘守民）复习笔记](/线性代数II复习笔记2021.pdf)；[2021春线性代数II作业](/线性代数II作业2021.pdf).
 
-1. Numbered
-2. List
+> + **抽象代数:** 刘守民老师通常选用书籍: 'Undergraduate Algebra-3rd Edition' by Serge Lang. [2020秋（刘守民）Galois理论笔记](/Galois笔记2020.pdf).
 
-**Bold** and _Italic_ and `Code` text
+> + **数学分析III:** 陈章老师通常选用书籍:常庚哲/史济怀的《数学分析教程》和 E. Stein的《Fourier Analysis》.
+>[2020秋（陈章）——傅里叶分析笔记](/Fourier笔记2020.pdf).
 
-[Link](url) and ![Image](src)
-```
+> + **常微分方程:**  [2020秋ODE复习笔记（曾凡海）](/ODE复习笔记2020.pdf).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> + **大学物理学I:**  [任课老师：未知](/大学物理I笔记2020.pdf).
 
-### Jekyll Themes
+> + **大学物理学II:** [任课老师：忘了](/大学物理II笔记2020.pdf).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DVLXLWZ/SDUTaishanMathLxl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 课程考试题目收集
 
-### Support or Contact
+> + **常微分方程:**  [2020期中考试](/ODE期中考试2020.pdf).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> + **拓扑学基础:**  [2021拓扑学期中考试（王鹏辉）](/拓扑学2021期中考试.pdf) ； [2021拓扑学期末考试（王鹏辉）](/拓扑学2021期末考试.pdf) .
+
+> + **复分析:**  [2021复分析期末考试（赵立璐）](/2021复分析期末考试.pdf) ；[2022复分析期中考试（赵立璐）](/2022复分析期中考试.pdf) .
+
+> + **实变函数:** [2022实变函数期中考试](/2022实变函数期中考试.pdf)
+
+## 管理人邮箱（欢迎投稿）
+> + **Email: 15834015310@163.com**
+
+## 友情链接
+> [USTC学习资料](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
