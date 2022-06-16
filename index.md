@@ -6,7 +6,7 @@
     <td width="100%">
       <h3> + 机构/学院：山东大学泰山学堂——数学取向</h3>
       <p><b> + 地点: 中国——山东——济南</b></p>
-      <p><b>   + 官方网站： [山东大学](https://www.sdu.edu.cn/) 和 [山东大学泰山学堂](https://www.tsxt.sdu.edu.cn/)  </b></p>
+      <p><b> + 官方网站：[山东大学泰山学堂](https://www.tsxt.sdu.edu.cn/)  </b></p>
     </td>
   </tr>
 </table>
@@ -74,3 +74,5 @@
 
 ## 友情链接
 > [USTC学习资料](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
+
+> [山东大学](https://www.sdu.edu.cn/) 和 [山东大学泰山学堂](https://www.tsxt.sdu.edu.cn/)
