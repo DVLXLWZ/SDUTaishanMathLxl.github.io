@@ -36,7 +36,7 @@
 > + **泛函分析:** 暂无
 
 ## 课程或者复习笔记
-> + **偏微分方程基础:** [2022PDE复习笔记（胡龙）](/2022PDE复习笔记.pdf)；
+> + **偏微分方程基础:** [2022PDE复习笔记（胡龙）](/2022PDE复习笔记（胡龙）.pdf)；
  
 > + **数论基础:** 2022课程主页: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
 
