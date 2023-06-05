@@ -55,7 +55,7 @@
 > + **微分几何:** [2016级微分几何期末考试（徐泽）](/2016级微分几何期末考试.jpg);
 
 ## 课程或者复习笔记
-> + **偏微分方程基础:** [2022PDE复习笔记(胡龙)](/2022PDE复习笔记(胡龙).pdf)；
+> + **偏微分方程基础:** [2022PDE复习笔记(胡龙)](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/2022PDE%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%83%A1%E9%BE%99).pdf)；
  
 > + **数论基础:** 2022课程主页: [Homepage of Fundamentals in Number Theory](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1454369/list/index.htm).
 
@@ -67,7 +67,7 @@
 > + **拓扑学基础:**  胡锡俊老师所用教材：Armstrong之《基础拓扑学》；王鹏辉老师所用教材：尤承业之《基础拓扑学》。二者讲授内容不同，除了基本的点集拓扑学之外，前者侧重于讲授单纯同调而基本群和覆叠空间之提一嘴；后者则只讲基本群和覆叠空间。
 > [代数拓扑基础复习（保研复习）](https://dvlxlwz.github.io/DvlxlwzMathNotes/SomeAT.pdf).
 
-> + **复分析:**  [2021复分析作业（赵立璐）](/2021复分析作业.pdf)；[复变定理复习(保研复习)](/复变定理复习(保研复习).pdf)；
+> + **复分析:**  [2021复分析作业（赵立璐）](/2021复分析作业.pdf)；[复变定理复习(保研复习)](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/%E5%A4%8D%E5%8F%98%E5%AE%9A%E7%90%86%E5%A4%8D%E4%B9%A0(%E4%BF%9D%E7%A0%94%E5%A4%8D%E4%B9%A0).pdf)；
 > [Stein复分析1,2,3,8章习题及问题选解](/Stein复分析1,2,3,8章习题及问题选解.pdf)；[复变函数经典习题选解](/复变函数经典习题选解.pdf)；
 
 > + **实变函数:** [实变专题之Vitali集的小应用——平移开区间/正测集有不可测子集](/实变专题之Vitali集的小应用.pdf)；
